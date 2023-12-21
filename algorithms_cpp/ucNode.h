@@ -1,5 +1,3 @@
-// Created by Jacqueline Gardea 862305608
-
 #ifndef UCNODE_H
 #define UCNODE_H
 #include <vector>

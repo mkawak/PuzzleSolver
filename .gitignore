@@ -1,0 +1,8 @@
+/myenv
+.idea/
+
+Icon?
+
+/client
+
+app.py

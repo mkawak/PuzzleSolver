@@ -219,6 +219,7 @@ int main() {
             cout << "Whats up with you? " << endl;
             break;
     }
+
     auto end_time = chrono::high_resolution_clock::now();
     auto duration = chrono::duration_cast<chrono::milliseconds>(end_time - start_time).count();
 

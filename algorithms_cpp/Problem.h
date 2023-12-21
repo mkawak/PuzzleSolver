@@ -1,5 +1,3 @@
-// Created by Jacqueline Gardea 862305608
-
 #ifndef PROBLEM_H
 #define PROBLEM_H
 #include <vector>

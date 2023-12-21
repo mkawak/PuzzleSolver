@@ -1,4 +1,4 @@
-// Created by Jacqueline Gardea 862305608
+// Created by Jacqueline Gardea
 
 #include <queue>
 #include <vector>

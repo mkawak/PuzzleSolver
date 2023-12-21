@@ -1,5 +1,4 @@
-// Created by Majd Kawak 862273310
-// Utilized Lectures slides, ChatGPT and youtube.
+// Created by Majd Kawak
 
 #ifndef A_STAR_EUCLIDEAN_H
 #define A_STAR_EUCLIDEAN_H
@@ -469,6 +468,7 @@ void A_Star_Euclidean(vector<vector<int>> &init_puzzle, vector<vector<int>> &goa
 //    }
 //    cout << "Number of node = " << countNodes(puzzle) << endl;
 //    cout << "Nodes explored = " << nodes_explored << endl;
+
 }
 
 #endif //A_STAR_EUCLIDEAN_H

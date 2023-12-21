@@ -1,8 +1,4 @@
-// Created by Abhinav Allam and Rovin Soriano,  NET_ID= aalla009
-// https://www.tutorialspoint.com/cplusplus-program-to-implement-a-heuristic-to-find-the-vertex-cover-of-a-graph.
-// Utilized ChatGPT for purely debugging purposes.
-// https://www.youtube.com/watch?v=dvWk0vgHijs
-// https://www.geeksforgeeks.org/vector-in-cpp-stl/
+// Created by Abhinav Allam and Rovin Soriano
 
 #include <queue>
 #include <vector>
