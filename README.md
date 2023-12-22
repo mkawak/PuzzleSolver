@@ -20,7 +20,8 @@ The Advanced Puzzle Solver project focuses on efficient algorithms for solving t
 This project is an exploration of AI principles and their application in solving complex puzzles. It showcases the transition from theoretical algorithms to practical, user-friendly web applications.
 
 ### Web Visualization
-Navigate to PuzzleSolver and explore the interactive web interface that visually demonstrates the efficiency and effectiveness of the implemented algorithms in solving complex puzzles. The interface allows users to input puzzle configurations, select an algorithm, and view the step-by-step solution process. (More details to be added)
+Navigate to [PuzzleSolver](https://puzzlesolver-555f978d3b29.herokuapp.com/)
+ and explore the interactive web interface that visually demonstrates the efficiency and effectiveness of the implemented algorithms in solving complex puzzles. The interface allows users to input puzzle configurations, select an algorithm, and view the step-by-step solution process.
 
 ### Local Exploration
 For those interested in diving deeper into the algorithms, the C++ and Python versions are available within this repository. You can explore these files locally to understand the algorithms' functionality in more detail:
